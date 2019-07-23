@@ -40,5 +40,9 @@ Image
 参考サイト
 ----
 [https://medium.com/@taiponrock/node-red-%E3%83%95%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-4ee082910518](https://medium.com/@taiponrock/node-red-%E3%83%95%E3%83%AD%E3%83%BC%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF%E3%83%BC%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-4ee082910518)
+<br>
 [https://developer.ibm.com/jp/patterns/](https://developer.ibm.com/jp/patterns/)
-
+<br>
+[https://qiita.com/Ra1nmaker/items/2b00384916ea081bfb16](https://qiita.com/Ra1nmaker/items/2b00384916ea081bfb16)
+<br>
+[https://medium.com/@taiponrock/line%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%81%A8watson%E3%82%92%E9%80%A3%E6%90%BA%E3%81%99%E3%82%8B-8a7d89a49e57](https://medium.com/@taiponrock/line%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88%E3%81%A8watson%E3%82%92%E9%80%A3%E6%90%BA%E3%81%99%E3%82%8B-8a7d89a49e57)
