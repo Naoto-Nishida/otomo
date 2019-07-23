@@ -10,3 +10,14 @@ flow.json is a data of NodeRED project.
 skill-otomo is a data of Watson Assistant API.
 When using, please fill in the "<ACCESS KEY>" space in flow.json file with your API Access Key.
 And besides, please replace the previous workspaceURL of Watson Assistant with your own workspaceURL.
+
+
+Image
+---
+
+![スクリーンショット 2019-07-23 14 33 51](https://user-images.githubusercontent.com/39507181/61707309-2389cd80-ad85-11e9-8ad6-4aacc167c553.png)
+<img width="359" alt="スクリーンショット 2019-07-23 17 49 24" src="https://user-images.githubusercontent.com/39507181/61707310-2389cd80-ad85-11e9-8a6d-a459e381df11.png">
+<img width="355" alt="スクリーンショット 2019-07-23 18 08 56" src="https://user-images.githubusercontent.com/39507181/61707311-24226400-ad85-11e9-9719-0a3bb1064947.png">
+<img width="358" alt="スクリーンショット 2019-07-23 18 09 03" src="https://user-images.githubusercontent.com/39507181/61707312-24226400-ad85-11e9-90b7-1f8e0482d90a.png">
+![IMG_4302](https://user-images.githubusercontent.com/39507181/61707347-3ac8bb00-ad85-11e9-8321-086d1317ab02.PNG)
+![IMG_4303](https://user-images.githubusercontent.com/39507181/61707349-3ac8bb00-ad85-11e9-942e-affafb4bddc6.PNG)
