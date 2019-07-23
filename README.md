@@ -6,7 +6,6 @@ otomo is a chat bot using NodeRED and Watson API.
 We used LINE API for user interface.
 this is a artifact in the IBM hack-a-thon project as a sophomore student.
 
------
 flow.json is a data of NodeRED project.
 skill-otomo is a data of Watson Assistant API.
 When using, please fill in the "<ACCESS KEY>" space in flow.json file with your API Access Key.
@@ -20,7 +19,7 @@ otomoと会話が出来る。WatsonAssistantAPIを使っているので、自然
 コマンド「日付」で今日の日付も教えてくれる。
 (おまけ)pallotmodeと語尾につけるとおうむ返しモードになる。りんなさんとの差別化。
 
-↓友達追加して確かめてください。
+友達追加して確かめてください。
 ![875xvoft](https://user-images.githubusercontent.com/39507181/61708396-af9cf480-ad87-11e9-8a2d-fba845671f1c.png)
 
 Image
