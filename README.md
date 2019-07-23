@@ -12,18 +12,23 @@ skill-otomo is a data of Watson Assistant API.
 When using, please fill in the "<ACCESS KEY>" space in flow.json file with your API Access Key.
 And besides, please replace the previous workspaceURL of Watson Assistant with your own workspaceURL.
 
+
 機能
 ----
-otomoと会話が出来る。WatsonAssistantAPIを使っているので、自然な返しが帰ってくる。つまり、雑談出来る！
+otomoと会話が出来る。WatsonAssistantAPIを使っているので、自然な返しが帰ってくる。つまり、雑談出来る！ 
 コマンド「日記」で今日言った内容を集めて返してくれる。
 コマンド「日付」で今日の日付も教えてくれる。
 (おまけ)pallotmodeと語尾につけるとおうむ返しモードになる。りんなさんとの差別化。
+
+↓友達追加して確かめてください。
+![875xvoft](https://user-images.githubusercontent.com/39507181/61708396-af9cf480-ad87-11e9-8a2d-fba845671f1c.png)
 
 Image
 ---
 
 <img src="https://user-images.githubusercontent.com/39507181/61707347-3ac8bb00-ad85-11e9-8321-086d1317ab02.PNG" width=30%>
 <img src="https://user-images.githubusercontent.com/39507181/61707349-3ac8bb00-ad85-11e9-942e-affafb4bddc6.PNG" width=30%>
+
 
 
 開発中の様子
