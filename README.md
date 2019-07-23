@@ -23,4 +23,6 @@ Image
 ![IMG_4303](https://user-images.githubusercontent.com/39507181/61707349-3ac8bb00-ad85-11e9-942e-affafb4bddc6.PNG)
 
 
-<img src="https://user-images.githubusercontent.com/39507181/61707309-2389cd80-ad85-11e9-8ad6-4aacc167c553.png" width=50%>
+<img src="https://user-images.githubusercontent.com/39507181/61707309-2389cd80-ad85-11e9-8ad6-4aacc167c553.png" width=30%>
+<img src="https://user-images.githubusercontent.com/39507181/61707347-3ac8bb00-ad85-11e9-8321-086d1317ab02.PNG" width=30%>
+<img src="https://user-images.githubusercontent.com/39507181/61707349-3ac8bb00-ad85-11e9-942e-affafb4bddc6.png" width=30%>
