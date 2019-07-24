@@ -1,4 +1,5 @@
 # otomo
+This is an artifact of a team project in IBM hackathon 2019 in Tsukuba.
 <img src="https://user-images.githubusercontent.com/39507181/61707309-2389cd80-ad85-11e9-8ad6-4aacc167c553.png" width=30%>
 created a chat bot through LINE app with NodeRED and API Watson from IBM.
 
